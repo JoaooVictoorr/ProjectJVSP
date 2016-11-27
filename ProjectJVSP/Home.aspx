@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Home.aspx.cs" Inherits="ProjectJVSP.Home" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" Inherits="ProjectJVSP.Home" %>
 
 <!DOCTYPE html>
 
